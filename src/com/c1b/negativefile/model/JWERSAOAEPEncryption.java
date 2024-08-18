@@ -31,7 +31,6 @@ public class JWERSAOAEPEncryption {
         // build the payload to encrypt
         String dataToEncrypt = "{ \"firstName\" : \"raja\", \"lastName\": \"katta\", \"middleName\" : \"R\"}";
         //String issuer = "https://java-crypto.github.io/cross_platform_crypto/";
-        //String issuer = "https://fico.com";
         String issuer = "";
         //String subject = "JWE RSA-OAEP & AES GCM encryption";
         String subject = "";
